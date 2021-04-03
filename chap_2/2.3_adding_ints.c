@@ -30,4 +30,8 @@ Notes:
 > "%d" is a conversion specifier. "%" -- begining of conv specifier, "d" -- decimal integer.
 > "&" is the address operator to specify the location for data to be stored.
 > "=, +" are binary operators. Place spaces on either side for clarity.
+> Place spaces on either side of binary operators.
+> Variable definition and assignment may be combined: int sum = integer1 + integer2;
+> Calculation can be done inside printf: printf("Sum is %d\n", integer1 + integer2);
+
 */
